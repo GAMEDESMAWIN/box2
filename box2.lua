@@ -3384,8 +3384,8 @@ do
 				WindowControlStroke = d("FFFFFF", 10),
 				Exit = d("FF5F57", 100),
 				Minimize = d("FEBC2E", 100),
-				Zoom = d("28C840", 100),
-				SwitchAccent = d("47f64d", 100),
+				Zoom = d("160deb", 100),
+				SwitchAccent = d("160deb", 100),
 				Selection = d("34ff00", 100),
 				SelectionStroke = d("00d633", 60),
 				SelectionFocused = d("00d633", 100),
@@ -3411,7 +3411,7 @@ do
 					Knob = d("FFFFFF", 100),
 					KnobEffects = d("FFFFFF", 100),
 					SwitchOff = d("7a7a7a", 40),
-					SwitchOn = d("47f64d", 100),
+					SwitchOn = d("160deb", 100),
 					DepthEffect = c(
 						ColorSequence.new({
 							ColorSequenceKeypoint.new(0, Color3.fromRGB(225, 225, 225)),
@@ -3488,8 +3488,8 @@ do
 				WindowControlStroke = d("000000", 20),
 				Exit = d("FF5F57", 100),
 				Minimize = d("FEBC2E", 100),
-				Zoom = d("28C840", 100),
-				SwitchAccent = d("47f64d", 100),
+				Zoom = d("160deb", 100),
+				SwitchAccent = d("160deb", 100),
 				Selection = d("34ff00", 100),
 				SelectionStroke = d("00d633", 50),
 				SelectionFocused = d("00d633", 100),
@@ -3513,7 +3513,7 @@ do
 					Knob = d("FFFFFF", 100),
 					KnobEffects = d("FFFFFF", 100),
 					SwitchOff = d("000000", 9),
-					SwitchOn = d("47f64d", 100),
+					SwitchOn = d("160deb", 100),
 					DepthEffect = c(
 						ColorSequence.new({
 							ColorSequenceKeypoint.new(0, Color3.fromRGB(225, 225, 225)),
